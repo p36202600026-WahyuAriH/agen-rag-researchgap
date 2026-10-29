@@ -1,0 +1,9 @@
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-ollama
+pypdf
+pandas
+openpyxl
+streamlit>=1.50.0
